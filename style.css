@@ -24,8 +24,8 @@ body {
 
 .box {
 	position: relative;
-	width: 100px;
-	height: 100px;
+	width: 200px;
+	height: 200px;
 	transform-style: preserve-3d;
 	animation: animate 20s linear infinite;
 }
