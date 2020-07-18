@@ -17,10 +17,10 @@ body {
 
 
 
-	audio {
 	
-	z-index: 1;
-}
+	
+
+
 
 		
 	
@@ -65,3 +65,10 @@ body {
 	object-fit: cover;
 	
 }
+
+audio {
+		z-index: 1;
+}
+		
+
+	
